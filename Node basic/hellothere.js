@@ -1,0 +1,1 @@
+console.log("\nHello there, welcome to Node.\n");
